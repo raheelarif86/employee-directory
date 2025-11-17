@@ -1,7 +1,7 @@
 # Employee Directory
 
 This is a simple directory of employees in our class.
-Each participant will fill in exactly ONE row assigned to them (ID 1–22).
+Each participant will fill in exactly ONE row assigned to them (ID 1�22).
 
 | ID | Name | Department | Role / Title |
 |----|------|------------|--------------|
@@ -18,7 +18,7 @@ Each participant will fill in exactly ONE row assigned to them (ID 1–22).
 | 11 |  |  |  |
 | 12 |  |  |  |
 | 13 |  |  |  |
-| 14 |  |  |  |
+| 14 | Shahzeb | Data & AI | Data Scientist |
 | 15 |  |  |  |
 | 16 |  |  |  |
 | 17 |  |  |  |
