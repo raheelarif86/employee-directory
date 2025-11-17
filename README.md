@@ -6,7 +6,7 @@ Each participant will fill in exactly ONE row assigned to them (ID 1–22).
 | ID | Name | Department | Role / Title |
 |----|------|------------|--------------|
 | 1 |  |  |  |
-| 2 |  |  |  |
+| 2 | Mohammed Alkhatri | Strategy & Digitization | Digital & AI Lead |
 | 3 |  |  |  |
 | 4 |  |  |  |
 | 5 |  |  |  |
