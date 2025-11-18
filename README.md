@@ -1,7 +1,7 @@
 # Employee Directory
 
 This is a simple directory of employees in our class.
-Each participant will fill in exactly ONE row assigned to them (ID 1–22).
+Each participant will fill in exactly ONE row assigned to them (ID 1â€“22).
 
 | ID | Name | Department | Role / Title |
 |----|------|------------|--------------|
@@ -12,6 +12,9 @@ Each participant will fill in exactly ONE row assigned to them (ID 1–22).
 | 5 | Khaled Aldhaheri | PCS | operator |
 | 6 |  |  |  |
 | 7 |  |  |  |
+| 8 |  |  |  |
+| 9 | Rajesh | Plant Support | Application Specialist |
+| 10 |  |  |  |
 | 8 | Zubair | Plant Operation App | Specialist |
 | 9 |  |  |  |
 | 10 | Melhem | Plant Operations | Application Delivery & Support Lead |
