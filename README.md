@@ -6,19 +6,22 @@ Each participant will fill in exactly ONE row assigned to them (ID 1–22).
 | ID | Name | Department | Role / Title |
 |----|------|------------|--------------|
 | 1 |  |  |  |
-| 2 |  |  |  |
+| 2 | Mohammed Alkhatri | Strategy & Digitization | Digital & AI Lead |
 | 3 |  |  |  |
 | 4 |  |  |  |
-| 5 |  |  |  |
+| 5 | Khaled Aldhaheri | PCS | operator |
 | 6 |  |  |  |
 | 7 |  |  |  |
 | 8 |  |  |  |
 | 9 | Rajesh | Plant Support | Application Specialist |
 | 10 |  |  |  |
+| 8 | Zubair | Plant Operation App | Specialist |
+| 9 |  |  |  |
+| 10 | Melhem | Plant Operations | Application Delivery & Support Lead |
 | 11 |  |  |  |
-| 12 |  |  |  |
+| 12 | Madhava Krishna Reddy Gangana | Plant Operations | Application Delivary Specialist |
 | 13 |  |  |  |
-| 14 |  |  |  |
+| 14 | Shahzeb | Data & AI | Data Scientist |
 | 15 |  |  |  |
 | 16 |  |  |  |
 | 17 |  |  |  |
